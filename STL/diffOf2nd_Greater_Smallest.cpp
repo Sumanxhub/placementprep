@@ -1,6 +1,9 @@
-// Find the difference of second greatest and second smallest number from a
-// vector Input: [5, 2, 4, 1, 9, 3, 8, 7] Output: 6 Explanation: second greatest
-// = 8, second smallest = 2 result => 8 - 2 = 6
+// Find the difference of second greatest and second smallest number from
+// a vector.
+// Input: [5, 2, 4, 1, 9, 3, 8, 7]
+// Output: 6
+// Explanation: second greatest = 8, second smallest = 2
+// result => 8 - 2 = 6
 
 #include <algorithm>
 #include <iostream>
