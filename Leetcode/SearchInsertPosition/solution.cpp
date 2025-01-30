@@ -24,3 +24,10 @@ public:
     return lower_bound(nums.begin(), nums.end(), target) - nums.begin();
   }
 };
+
+/*
+  lower_bound() - It returns an iterator to the first element
+that is not less than (i.e., greater than or equal to) a given value in a sorted
+range. You can use it when working with sorted containers like vector, set, map,
+or array. It works on Binary search algorithm.
+*/
