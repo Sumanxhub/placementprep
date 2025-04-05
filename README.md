@@ -19,5 +19,5 @@ Welcome to placement prep notes, neatly organized and easy to access 👇
 
 ---
 
-> ⭐ _“Sharpen the axe before cutting the tree.”_ 
-
+> 🧩 **"It’s not hard. It’s just unfamiliar."**  
+> _– Everything looks hard until it clicks._
