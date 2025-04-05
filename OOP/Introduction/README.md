@@ -1,5 +1,7 @@
+# Basic Concepts
 
-## What is Object-Oriented Programming (OOP)
+
+### What is Object-Oriented Programming (OOP)
 
 - Everything is treated as an **object**.
 
@@ -20,7 +22,6 @@
 - Features of OOPs are – **class**, **object**, **encapsulation**, **data hiding**, **data abstraction**, **inheritance**, **polymorphism**, **abstraction**.  
 - But the main **four pillars** are – **encapsulation**, **inheritance**, **polymorphism**, **abstraction**.
 
----
 
 ## Class
 
