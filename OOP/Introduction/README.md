@@ -14,7 +14,7 @@
 
 ##### True
 - It supports **primitive data types**.  
-- **Example**: **C++**, **Java**, **Dot Net**
+- **Example**: **C++**, **Java**, **Dot Net** (.NET)
 
 
 ## What are the features of OOPs?
@@ -60,14 +60,14 @@
 
 ## Destructor
 
-- It is used to **deinitialize** an object.
+- It is used to **deinitialize members of** an object.
 
 
 
 ## Delete
 
 - It is a **functional operator**.  
-- `delete` is responsible for **deinitialization of members** of an object.
+- `delete` is responsible for **deinitialization** of an object.
 
 
 
@@ -87,17 +87,24 @@
 ## Encapsulation
 
 - The combination of **data hiding** and **data abstraction** is called **encapsulation**.
+- To encapsulate **members of a class** into single unit is called **encapsulation**.
 
 
 
 ## Inheritance
 
-- When **public** and **protected** member of a class directly accessible into another class is called **inheritance**.
+- When **public** and **protected** members of a class directly accessible into another class is called **inheritance**.
+
+
+
+## Polymorphism
+
+- When an **object** have **symbolic reference** of any **method** is called **polymorphism**.
 
 
 
 ## Abstraction
 
-- **Hiding internal implementation detail** of a class is called **abstraction**.
+- **Hiding internal implementation details** of a class is called **abstraction**.
 
 
