@@ -1,18 +1,18 @@
 # Concept of Class
 
-## Class
+## What is Class ?
 
-A **class** is a logical entity.  
-It contains information about its members, such as:
+- A **class** is a logical entity.  
+- It contains information of their members, such as:
 
-- **Member Variable**  
-- **Member Method**  
-- **Static Variable**  
-- **Static Method**  
-- **Constructor**  
-- **Destructor**  
-- **Access Modifier**  
-- **Constant Pool**
+    - **Member Variable**  
+    - **Member Method**  
+    - **Static Variable**  
+    - **Static Method**  
+    - **Constructor**  
+    - **Destructor**  
+    - **Access Modifier**  
+    - **Constant Pool**
 
 ### Key Points
 
