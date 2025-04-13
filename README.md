@@ -9,6 +9,7 @@ Welcome to placement prep notes, neatly organized and easy to access 👇
 ### 🔸 OOP (Object-Oriented Programming)
 - [Introduction](./OOP/Introduction/README.md)
 - [Class](./OOP/Class/README.md)
+- [Object](./OOP/Object/README.md)
 
 ---
 
