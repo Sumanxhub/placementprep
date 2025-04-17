@@ -6,10 +6,13 @@ Welcome to placement prep notes, neatly organized and easy to access 👇
 
 ## 📂 Topics
 
-### 🔸 OOP (Object-Oriented Programming)
+### OOP (Object-Oriented Programming)
 - [Introduction](./OOP/Introduction/README.md)
 - [Class](./OOP/Class/README.md)
 - [Object](./OOP/Object/README.md)
+
+### DBMS (Database Management System)
+- [Introduction](./RDBMS//Introduction/README.md)
 
 ---
 
